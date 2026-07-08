@@ -1,0 +1,42 @@
+{
+    "spriteSheetURL": "./img/portal_sprites.png",
+    "type": "background",
+    "sprites": [
+        {
+            "name": "portal_tl",
+            "x": 0,
+            "y": 0,
+            "redrawBg": true,
+            "scalefactor": 2,
+            "collision": true,
+            "colorKey": [255, 255, 255]
+        },
+        {
+            "name": "portal_tr",
+            "x": 1,
+            "y": 0,
+            "redrawBg": true,
+            "scalefactor": 2,
+            "collision": true,
+            "colorKey": [255, 255, 255]
+        },
+        {
+            "name": "portal_bl",
+            "x": 0,
+            "y": 1,
+            "redrawBg": true,
+            "scalefactor": 2,
+            "collision": true,
+            "colorKey": [255, 255, 255]
+        },
+        {
+            "name": "portal_br",
+            "x": 1,
+            "y": 1,
+            "redrawBg": true,
+            "scalefactor": 2,
+            "collision": true,
+            "colorKey": [255, 255, 255]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "spriteSheetURL": "./img/tiago_sprites.png",
+    "type": "character",
+    "size": [32, 64],
+    "sprites": [
+        {
+            "name": "heavybot-1",
+            "x": 0,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "heavybot-2",
+            "x": 32,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "heavybot-damaged",
+            "x": 64,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "heavybot-damaged-2",
+            "x": 96,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "spriteSheetURL": "./img/portal_end_sprites.png",
+    "type": "character",
+    "size": [64, 64],
+    "sprites": [
+        {"name": "end_portal_0", "x": 0, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "end_portal_1", "x": 64, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "end_portal_2", "x": 128, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "end_portal_3", "x": 192, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false}
+    ]
+}

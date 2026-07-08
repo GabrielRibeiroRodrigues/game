@@ -1,0 +1,27 @@
+{
+    "spriteSheetURL": "./img/powerbox_sprites.png",
+    "type": "character",
+    "size": [32, 32],
+    "sprites": [
+        {
+            "name": "powerbox_idle",
+            "x": 0,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 32,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "powerbox_depleted",
+            "x": 32,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 32,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        }
+    ]
+}

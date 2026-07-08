@@ -1,0 +1,19 @@
+{
+    "spriteSheetURL": "./img/boss_sprites.png",
+    "type": "character",
+    "size": [64, 64],
+    "sprites": [
+        {"name": "boss_idle", "x": 0, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_telegraph_charge", "x": 64, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_charge", "x": 128, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_stunned", "x": 192, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_telegraph_jump", "x": 256, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_jump", "x": 320, "y": 0, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_enraged_idle", "x": 0, "y": 64, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_enraged_telegraph_charge", "x": 64, "y": 64, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_enraged_charge", "x": 128, "y": 64, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_enraged_stunned", "x": 192, "y": 64, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_enraged_telegraph_jump", "x": 256, "y": 64, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false},
+        {"name": "boss_enraged_jump", "x": 320, "y": 64, "xsize": 64, "ysize": 64, "scalefactor": 1, "colorKey": -1, "collision": false}
+    ]
+}

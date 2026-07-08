@@ -1,0 +1,137 @@
+{
+    "spriteSheetURL": "./img/yasmin_sprites.png",
+    "type": "character",
+    "size": [32, 32],
+    "sprites": [
+        {
+            "name": "yasmin_idle",
+            "x": 0,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 32,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_run1",
+            "x": 32,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 32,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_run2",
+            "x": 64,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 32,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_run3",
+            "x": 96,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 32,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_jump",
+            "x": 128,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 32,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_break",
+            "x": 160,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 32,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_dead",
+            "x": 192,
+            "y": 0,
+            "xsize": 32,
+            "ysize": 32,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_big_idle",
+            "x": 0,
+            "y": 32,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_big_run1",
+            "x": 32,
+            "y": 32,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_big_run2",
+            "x": 64,
+            "y": 32,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_big_run3",
+            "x": 96,
+            "y": 32,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_big_jump",
+            "x": 128,
+            "y": 32,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        },
+        {
+            "name": "yasmin_big_break",
+            "x": 160,
+            "y": 32,
+            "xsize": 32,
+            "ysize": 64,
+            "scalefactor": 1,
+            "colorKey": -1,
+            "collision": false
+        }
+    ]
+}
